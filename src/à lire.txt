@@ -1,0 +1,5 @@
+installer les deux biblitheque numpy et pandas avec la commande :
+pip install numpy
+pip install pandas
+excuter le fichier run_this.py avec la commande :
+python run_this.py
